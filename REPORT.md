@@ -1,5 +1,4 @@
-# ***<p style="text-align: center;"> Neural Network Report 
-</p>***
+# ***<p style="text-align: center;"><u> Neural Network Report </u></p>***
 
 ## ***<p style="text-align: center;"> Performnace Analysis of the Deep Learning Model</p>***
 
