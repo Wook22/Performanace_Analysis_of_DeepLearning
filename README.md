@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Performnace Analysis of the Deep Learning Model
 
 ![](images/hands-820272_1280.png)
 
